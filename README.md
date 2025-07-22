@@ -25,6 +25,7 @@
 - **JavaScript (ES6+)**
 - **HTML5 + CSS3**
 - **Vite** (for fast development and bundling)
+- **tailwindCss** (a css framework)
 
 ---
 
