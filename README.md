@@ -1,3 +1,33 @@
+# 🧠 Algo Visual
+
+**Algo Visual** is an interactive web application that helps users visualize sorting algorithms in real-time. Built with **React.js**, it offers an intuitive way to understand the inner workings of common sorting techniques like Bubble Sort, Merge Sort, Quick Sort, and more.
+
+---
+
+## 🚀 Features
+
+- 🎨 Real-time graphical visualization of sorting algorithms
+- 🔧 Adjustable array size and speed controls
+- 📚 Supports multiple sorting algorithms:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+- 💻 Built using React.js and modern JavaScript
+- 📱 Fully responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5 + CSS3**
+- **Vite** (for fast development and bundling)
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
